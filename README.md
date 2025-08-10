@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Sabitha P
-- 👀 I’m interested in full stack developer
-- 🌱 I’m currently learning BE CSE
-- 📫 How to reach me https://www.linkedin.com/in/sabitha45
+
 - <h1 align="center">Hi 👋, I'm Sabitha P</h1>
 <h3 align="center">💫A passionate full stack developer from India</h3>
 
